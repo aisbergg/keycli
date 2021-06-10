@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # The binaries to build (just the basenames).
-BINS := kccli
+BINS := keycli
 
 # Where to push the docker image.
 REGISTRY ?= hub.docker.com
