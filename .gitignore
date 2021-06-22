@@ -1,3 +1,7 @@
+# IDE
+/.vscode
+
+# go files and directories
 /bin
 /.go
 /.container-*
